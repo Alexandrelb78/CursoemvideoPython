@@ -1,0 +1,2 @@
+# CursoemvideoPython
+ Exercicio do curso
