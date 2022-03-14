@@ -1,0 +1,5 @@
+print('123','456','789',sep='.', end='-')
+print('45')
+print('VASCO DA GAMA')
+print("GREEN BAY PACKEG")
+print('ALEXANDRE É UM "CARA" LEGAL')

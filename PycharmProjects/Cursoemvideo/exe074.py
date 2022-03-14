@@ -1,0 +1,10 @@
+from random import choice
+lista = ('1','2','3','4','5','6','7','8','9','10')
+n1 = choice(lista)
+n2 = choice(lista)
+n3 = choice(lista)
+n4 = choice(lista)
+n5 = choice(lista)
+print ('OS VALORES SORTEADOS FORAM:', n1,n2,n3,n4,n5)
+print (f'O MAIOR VALOR SORTEADO FOI {max (n1,n2,n3,n4,n5)}')
+print (f'O MENOR VALOR SORTEADO FOI {min (n1,n2,n3,n4,n5)}')
